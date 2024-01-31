@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Password</string>
+    <string name="generate">Generate Password</string>
+</resources>
